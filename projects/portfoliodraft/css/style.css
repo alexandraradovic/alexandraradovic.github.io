@@ -1,23 +1,40 @@
 
-body{
+h3,
+p{
     font-family:'Mohave', sans-serif; 
     font-size: 16px;
     margin-top: 20px;
+
     
     }
     
-    h1,
-    h2,
-    h3{
-    font-family:'Lobster Two', cursive;
-    color: rgb(255, 0, 128);
     
-    }
     h1{
-    font-size: 4em;
+    font-family:'Lobster Two', cursive;
+    font-size: 2.5em;
+    font-weight: 400;
+    color:violet
+
+    
+    
+    }
+    p{
+    font-size: 1em;
     font-weight: 400;
     }
     h2{
     font-size: 2.5em;
     font-weight: 200;
+    }
+
+    h3{
+        font-size: 1.3em;
+    font-weight: 800;
+
+    }
+
+    li{
+        font-size: .80em;
+    font-weight:300;
+
     }
