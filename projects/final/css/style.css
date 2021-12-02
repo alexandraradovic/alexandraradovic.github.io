@@ -1,0 +1,48 @@
+/* font-family: 'Lobster Two', cursive;
+font-family: 'Zen Antique', serif;
+*/
+
+body{
+    
+    font-family: 'Lobster Two,' cursive; 
+    font-size:16px;
+    margin:30px 0;
+
+}
+
+h1, h2, header, footer{
+    font-family: 'Zen Antique,' serif; 
+    color:blue;
+
+}
+
+h1{
+    font-size: 3em;
+    font-weight:600;
+    margin-bottom:20px;
+    letter-spacing:2px;
+
+}
+h2{
+    font-size:1.5em;
+    text-transform: uppercase;
+    font-weight:500;
+    letter-spacing:1.5px;
+
+}
+header,footer{
+    color:cornflowerblue;
+    font-size:.9em;
+    line-height: .5;
+
+}
+.header-img{
+    margin-bottom:15px;
+
+}
+
+.experience{
+    background-color:darkkhaki;
+    padding: 20px;
+    margin-bottom:20 px;
+}
