@@ -2,7 +2,7 @@ body{
     margin-bottom:30px;
     }
     body{
-        font-family:'Mohave,'sans-serif;
+        font-family:'Roboto Mono,'sans-serif;
         font-size: 16px;
         margin-top:20px;
     }
@@ -11,23 +11,26 @@ body{
         
         h1,
         h2{
-        font-family:'Lobster Two', cursive;
-        font-size: 2.5em;
-        font-weight: 400;
-        color:rgb(0, 255, 106)
+        font-family:'montserrat,'sans-serif;
+        font-size: 3em;
+        font-weight: 750;
+        color:#A8FF00(0, 255, 106)
          }
+
         p{
         font-size: 1em;
         font-weight: 400;
         }
         h2{
-        font-size: 2.5em;
-        font-weight: 200;
+        font-size: 3em;
+        font-weight: 700;
+        color:#A8FF00
         }
     
         h3{
             font-size: 1.3em;
         font-weight: 800;
+        
         }
     
         li{
@@ -36,9 +39,11 @@ body{
         }
     
         p{
-            font-family:'Mohave,'sans-serif;
+            font-family:'Montserrat,'sans-serif;
             font-size: 1em;
             font-weight: 170;
+
+            color:#8e8e8e
             
     
         }
